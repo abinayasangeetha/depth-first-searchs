@@ -94,12 +94,10 @@ G F <BR>
 F H <BR>
 <hr>
 <h3>Sample Output</h3>
-<hr>
-['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
-<hr>
 
-<hr>
 ![Screenshot 2024-08-28 073544](https://github.com/user-attachments/assets/9f675aba-16dc-4ccf-8edf-13444c0a4634)
+
+
 <h3>Sample Input</h3>
 <hr>
 5 5 <BR>
@@ -111,7 +109,9 @@ F H <BR>
 <hr>
 <h3>Sample Output</h3>
 <hr>
-['0', '1', '2', '3', '4']
+
+![Screenshot 2024-08-28 084605](https://github.com/user-attachments/assets/007355d5-ff38-4cd7-8724-9d34046e3d6b)
+
 
 <hr>
 <h3>Result:</h3>
