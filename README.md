@@ -53,7 +53,8 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
  <li>Find its Successors Or neighbors and Check whether the node is visited or not</li>
  <li>If Not Visited, add it to the STACK. Else Call The Function Again Until No more nodes needs to be visited.</li>
 </ol></B>
-<h3>Program</h3> 
+
+## Program:
 ```
 from collections import deque
 from collections import defaultdict
@@ -95,10 +96,10 @@ F H <BR>
 <h3>Sample Output</h3>
 <hr>
 ['A', 'B', 'E', 'D', 'C', 'G', 'F', 'H']
-
 <hr>
 
 <hr>
+![Screenshot 2024-08-28 073544](https://github.com/user-attachments/assets/9f675aba-16dc-4ccf-8edf-13444c0a4634)
 <h3>Sample Input</h3>
 <hr>
 5 5 <BR>
