@@ -57,7 +57,6 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 ```
 from collections import deque
 from collections import defaultdict
-
 def dfs(graph,start,visited,path):
     path.append(start)
     visited[start]=True
